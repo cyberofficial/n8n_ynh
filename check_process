@@ -11,7 +11,7 @@
 		setup_private=1
 		setup_public=1
 		upgrade=1
-		upgrade=1	from_commit=0d34c8a15f95a3dc3b9e1d233bc03410d182628a
+		upgrade=1	from_commit=44c3a018952ed795718313c02ba8c52825ad97d9
 		backup_restore=1
 		multi_instance=0
 		change_url=1
@@ -19,6 +19,6 @@
 Email=
 Notification=none
 ;;; Upgrade options
-	; commit=0d34c8a15f95a3dc3b9e1d233bc03410d182628a
-		name=#29
+	; commit=44c3a018952ed795718313c02ba8c52825ad97d9
+		name=0.202.1
 		manifest_arg=domain=DOMAIN&path=PATH&admin=USER&language=fr&is_public=1&password=pass&port=9001&
