@@ -6,7 +6,7 @@
 
 nodejs_version=16
 
-n8n_version=0.202.0
+n8n_version=0.202.1
 
 #=================================================
 # PERSONAL HELPERS
